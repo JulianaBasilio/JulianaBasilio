@@ -24,5 +24,5 @@
 </div>
 
   <div>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=JulianaBasilio)](https://github.com/ryo-ma/github-profile-trophy)
+    [![trophy](https://github-profile-trophy.vercel.app/?username=JulianaBasilio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   </div>

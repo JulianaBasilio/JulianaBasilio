@@ -22,3 +22,7 @@
   <a href = "mailto:julianasbasilio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-da-silva-basilio-38034a5b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  <div>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=JulianaBasilio)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
